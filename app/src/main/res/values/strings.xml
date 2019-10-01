@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="YOUR_API_KEY">Must must your APi key</string>
+</resources>
